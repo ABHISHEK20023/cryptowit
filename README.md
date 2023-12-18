@@ -1,3 +1,4 @@
-![Screenshot (6)](https://github.com/ABHISHEK20023/cryptowit/assets/86145228/51c69de9-b00a-4e79-b74f-5299f62e45a3)
-![Screenshot (7)](https://github.com/ABHISHEK20023/cryptowit/assets/86145228/e7600e5a-721e-496f-b02e-bc25f85ee806)
-![Screenshot (8)](https://github.com/ABHISHEK20023/cryptowit/assets/86145228/36e1dd5d-0ff3-40f6-ba2d-5e29446312b7)
+
+![Screenshot 2023-12-18 130859](https://github.com/ABHISHEK20023/cryptowit/assets/86145228/03290a7c-6ac0-4f5e-a748-2bb0a0e09e77)
+![Screenshot 2023-12-18 130915](https://github.com/ABHISHEK20023/cryptowit/assets/86145228/8ff2bbc9-4492-4308-8a62-ca6ef1239483)
+![Screenshot 2023-12-18 130929](https://github.com/ABHISHEK20023/cryptowit/assets/86145228/7c4b1194-7c85-4af1-8786-d93c7b046681)
